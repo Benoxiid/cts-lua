@@ -1,6 +1,7 @@
 {
   "files": {
-    "-": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    "apis/inspect.lua": "060a1490d675ee60aafc82e4f2f9ff3ceec76550d4869f43b01afafeda054549",
+    "programs/test.lua": "69fe3588c6af030498aa317c7fb26265e91c85b6009e7baffbaba55070409dfe"
   },
   "dependencies": []
 }
